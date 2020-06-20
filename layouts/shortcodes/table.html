@@ -1,0 +1,26 @@
+{{ $url := .Get 0 }}
+{{ $sep := "," }}
+{{ $.Scratch.Set "count" 0 }}
+
+<center>
+<table>
+  {{ range $table, $row := getCSV $sep $url }}
+  <tr>
+    {{range $data := $row }}
+        {{ if eq 0 ($.Scratch.Get "count") }}
+        <th>
+          {{.}}
+        </th>
+
+        {{ else }}
+        <td>
+          {{.}}
+        </td>
+
+        {{ end }}
+    {{ end }}
+  </tr>
+  {{ $.Scratch.Add "count" 1 }}
+  {{ end }}
+</table>
+</center>
