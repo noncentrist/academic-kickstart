@@ -50,5 +50,22 @@ Passionate about not having blinders on all the time? Feel like you can sometime
 
 You're the perfect candidate. 
 
-[Email us](mailto:k.bansal@u.yale-nus.edu.sg?subject=Interest in NonCentrist) with your name and topics you are passionate about :) 
+<br>
 
+<form name="contact" method="POST" data-netlify="true">
+  <div class="form-group">
+    <label>Your Name:</label> 
+    <input type="text" class ="form-control" name="name" />
+  </div>
+
+  <div class="form-group">
+    <label>Your Email:</label> 
+    <input type="text" class ="form-control" name="email" />
+  </div>
+  <div class="form-group">
+    <label>Any message for theditor:</label>
+    <textarea name="message" class="form-control" rows="3"></textarea>
+  </div>
+
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
