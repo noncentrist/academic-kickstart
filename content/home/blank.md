@@ -44,8 +44,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-
 > ## Not all those who wander are lost.
 >
 > &ndash; J.R.R. Tolkien

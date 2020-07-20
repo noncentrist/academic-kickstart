@@ -1,0 +1,8 @@
+<div class="list-group">
+    {{ range site.Taxonomies.categories }}
+        <button class="list-group-item list-group-item-action d-flex justify-content-between align-items-center" onclick="window.location.href = '{{ .Page.RelPermalink }}';">
+            {{.Page.Title}}
+            <span class="badge badge-primary badge-pill">{{ .Count }}</span>
+        </button>
+    {{ end }}
+</div>

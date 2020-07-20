@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Buddhist Karma"
+title: "Buddhist Karma - as spilt by Vasubandhu"
 subtitle: "And how pop culture Karma is not the entire story"
 summary: "A summary of a 1989 lecture by Richard P. Hayes: 'Can sense be made of the Buddhist theory of karma?' We investigate the formal definition of karma."
 authors: []
@@ -23,7 +23,7 @@ image:
 
 ***Main Source**: A 1989 lecture, "Can sense be made of the Buddhist theory of karma?", by [Richard P. Hayes](https://unm.academia.edu/RichardHayes/CurriculumVitae), Department of Philosophy @ Brock University. PDF: https://www.unm.edu/~rhayes/karma_brock.pdf*. 
 
-Most of this post is paraphrasing their work and *'**Theditor**'* has merely added some additional sources for tangential topics.
+Most of this post is paraphrasing their work and *'**theditor**'* has merely added some additional sources for tangential topics.
 
 ---
 
@@ -55,14 +55,10 @@ Vasubandhu, through a series of 3 principles (which are not explained well), con
 
 Now we get to the meat of the argument. Vasubandhu recognises 2 types of causes relevant to karma. The first is 'similar cause', which gives rise to an effect similar to itself. These causes can be 'profitable', 'unprofitable', or 'indeterminate'. A profitable similar cause will lead to a desired result and thus causes temporary contentment, and vice versa. 'Profitability' extends to things like *premeditated* bodily and verbal actions, as well as thoughts and accompanying acts of awareness. All other things are undefined in terms of 'profitability'. *Theditor's note: what things are undefined? A shiver is not premeditated, but it makes one feel better and warm.*
 
-The second type of cause is the 'fruition cause'. It is the cause that gives rise to the final result of a causal sequence started by an action in the past. Being the final fruition, it does not create further profitable or unprofitable things, but the fruition itself must have been caused by such a thing.
+The second type of cause is the 'fruition cause'. It is the cause that gives rise to the final result of a causal sequence started by an action in the past. Being the final fruition, it does not create further profitable or unprofitable things, but the fruition itself must have been caused by such a thing. One unexplained point is that *unprofitable actions are said to always have a corresponding fruition*, but not all profitable actions do. Only profitable actions/karma accompanied by a false belief in the enduring self produce consequences. Vasubandhu mentions that such people, who lack wisdom and act out of desire for future rewards, perform meritorious action. Meritorious action is profitable, and it always results in temporary happiness. However, not all profitable action is meritorious.
 
+Based on these 2 types of causes, we see how an action now can have an effect later: the action causes 'similar causes' which go on for as many moments as required, and then it has a final effect when it causes the 'fruition cause'. To NonCentrist, an apt analogy would be a series of contraptions, triggered by a simple button. The button starts a ball rolling down, which hits and topples a broom and the chain continues until the very end when the trigger of a gun (probably aimed at you) is pulled, causing you to experience a sensation. But a question that arises in the theory (and this analogy) is *what keeps the causal chain associated with the same actor?*
 
-
-
-
-
-
-
+The rest of the paper was too difficult for us to understand, so we will revisit it at another time. 
 
 [^1]: a) Capacity to sense physical pleasure and pain; b) the capacity to recognise patterns; c) the six sensory awareness (5 senses and 1 intellect); and d) many habits and abilities that define one's personality.

@@ -18,7 +18,7 @@ projects: []
 datafile: "/assets/mediaBiasTable"
 ---
 
-In the course of our research for the  posts on this blog, we frequently have to choose between specific news  sources. In this post, we outline the sources we use and their  trustworthiness, as measured by independent auditors. It is important  for us to be sure of the sources we use and give ample warning of their  biases if we have to cite them. We primarily use *[MediaBiasFactCheck](http://mediabiasfactcheck.com)* to rate our sources.
+In the course of our research for the  posts on this blog, we frequently have to choose between specific news sources. In this post, we outline the sources we use and their trustworthiness, as measured by independent auditors. It is important for us to be sure of the sources we use and give ample warning of their  biases if we have to cite them. We primarily use *[MediaBiasFactCheck](http://mediabiasfactcheck.com)* to rate our sources.
 
 *We shall update this list for each new post that we draft, if the sources used/**encountered** in the process of writing said post are not already on the list.*
 
